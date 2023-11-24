@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Still looking for 2024 winter+spring (Jan - June) research internship!**
+**Still looking a research internship!**
 
 🔭 I am currently a Ph.D student at the [School of Information Science and Technology (IST)](https://vistec.ist), [VISTEC](https://www.vistec.ac.th) and research intern at [NAVER LABS](https://europe.naverlabs.com/).
 
